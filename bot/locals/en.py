@@ -1,9 +1,8 @@
-
 from bot.locals import Local
 
 LOCAL = Local({
     'WRONG_ROOM' : 'I a\'m not suppose to be here.\nID : <code>{CHAT_ID}</code>',
-    'WELCOME_MESSAGE' : "Hi!\nI'm <b>leech-bot</b>!\nPowered by pyrogram.\nFork: <a href='https://github.com/Thebosslaf/leech-bot'>github.com/Thebosslaf/leech-bot</a>",
+    'WELCOME_MESSAGE' : "Hi!\nI'm <b>Leech Bot</b>!\nMy Owner is @Thebossleech\nPlease Subscribe My Telegram Channel👇\n <a href='https://t.me/FilmSeries_vf'>                     FilmSeries</a>",
     'PASS_REQUIRED' : '\n\nUse <code>/{cmd_pass} </code>to enter the password.',
     'LEECH_LIST_MESSAGE_HEADER' : '<b>Leech Status</b>',
     'LEECH_LIST_FORMAT' : 'Name: <code>{name}</code>\nStatus: {status}\nID: <code>{gid}</code>\n\n',
