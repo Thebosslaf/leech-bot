@@ -8,8 +8,8 @@
       "3",
       "leecher"
     ],
-    "website": "https://github.com/Thebosslaf/leech-bot",
-    "repository": "https://github.com/Thebosslaf/leech-bot",
+    "website": "https://github.com/reaitten/tgtlg",
+    "repository": "https://github.com/reaitten/tgtlg",
     "env": {
       "API_ID": {
         "description": "get this value from https://my.telegram.org",
